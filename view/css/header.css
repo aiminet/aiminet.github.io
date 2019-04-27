@@ -1,0 +1,52 @@
+.dialog-content {
+    padding: 30px;
+}
+.header-logo-img{
+    width:465px;
+    height:175px;
+    margin-bottom:15px;
+    position:relative;
+}
+a#my-title1.mdui-text-color-black{
+    font-size:18px;
+}
+body{
+    font-weight:700;
+}
+body img{
+    width:465px;
+    height:175px;
+    margin-bottom:12px;
+    margin-top:17px;
+}
+body header {
+    background;rgba(220,220,220,.5);
+}
+#my-title1 {
+    font-size:23px;
+}
+#my-title2 {
+    font-size:16px;
+}
+.img {
+    -moz-border-radius:50px;
+    width:auto;
+    height:auto;
+    max-width:50%;
+    max-height:50%;
+    margin:20px;
+}
+img.mdui-img-fluid.mdui-col-sm-4{
+    width:0px auto;
+    height:0px auto;
+}
+div#xy-line-height.img {
+    -moz-border-radius:50px;
+    margin:20px;
+}
+#content-footer {
+    padding: 30px;
+}
+div img {
+    margin-bottom:18px;
+}
